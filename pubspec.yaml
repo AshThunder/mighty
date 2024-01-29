@@ -86,7 +86,6 @@ dependency_overrides:
   webview_flutter: ^3.0.4
   flutter_svg : ^1.1.1+1
   intl: any
-    sdk: any
 
 dev_dependencies:
   flutter_test:
